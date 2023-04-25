@@ -14,7 +14,7 @@
   "main": "index.js",
   "dependencies": {
     "@cubejs-backend/serverless": "^0.32.4",
-    "aws-sdk": "^2.404.0"
+    "aws-sdk": "^2.1354.0"
   },
   "devDependencies": {
     "@cubejs-backend/linter": "^0.32.0",
