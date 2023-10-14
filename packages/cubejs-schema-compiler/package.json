@@ -38,7 +38,7 @@
     "@babel/parser": "^7.12.10",
     "@babel/preset-env": "^7.12.10",
     "@babel/standalone": "^7.12.10",
-    "@babel/traverse": "^7.12.10",
+    "@babel/traverse": "^7.23.2",
     "@babel/types": "^7.12.12",
     "@cubejs-backend/shared": "^0.32.2",
     "antlr4ts": "0.5.0-alpha.4",
