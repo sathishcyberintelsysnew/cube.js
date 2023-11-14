@@ -20,7 +20,7 @@
     "@cubejs-client/core": "^0.30.74",
     "@nivo/bar": "^0.80.0",
     "@nivo/colors": "^0.79.1",
-    "@nivo/core": "^0.80.0",
+    "@nivo/core": "^0.83.1",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.4",
     "numeral": "^2.0.6",
