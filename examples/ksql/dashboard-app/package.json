@@ -8,7 +8,7 @@
     "@cubejs-client/react": "^0.30.69",
     "@cubejs-client/ws-transport": "^0.30.64",
     "@segment/analytics-next": "^1.43.0",
-    "antd": "^3.24.3",
+    "antd": "^4.0.0",
     "chart.js": "^3.9.1",
     "component-cookie": "^1.1.4",
     "date-fns": "^2.29.3",
