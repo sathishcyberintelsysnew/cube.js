@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@ant-design/compatible": "^1.0.4",
+    "@ant-design/compatible": "^5.0.0",
     "@ant-design/icons": "^4.2.1",
     "@apollo/react-hooks": "^3.1.5",
     "@cube-dev/example-wrapper": "^1.1.10",
@@ -31,7 +31,7 @@
     "react-dom": "^16.13.1",
     "react-grid-layout": "^0.18.3",
     "react-resizable": "^1.10.1",
-    "react-scripts": "^4.0.0"
+    "react-scripts": "^5.0.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.2"
