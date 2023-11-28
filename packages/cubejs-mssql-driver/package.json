@@ -14,7 +14,7 @@
   "main": "driver/MSSqlDriver.js",
   "dependencies": {
     "@cubejs-backend/base-driver": "^0.32.2",
-    "mssql": "^6.1.0"
+    "mssql": "^8.0.0"
   },
   "license": "Apache-2.0",
   "publishConfig": {
