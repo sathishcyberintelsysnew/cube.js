@@ -7,12 +7,12 @@
     "@cubejs-client/core": "^0.23.6",
     "@cubejs-client/react": "^0.23.6",
     "antd": "^3.20.3",
-    "bizcharts": "^3.5.4",
+    "bizcharts": "^4.0.0",
     "moment": "^2.24.0",
     "numeral": "^2.0.6",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.4.4"
+    "react-scripts": "5.0.0"
   },
   "devDependencies": {
     "cross-env": "^7.0.2"
