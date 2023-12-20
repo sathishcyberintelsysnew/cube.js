@@ -7,7 +7,7 @@
     "@cube-dev/example-wrapper": "^1.1.10",
     "@cubejs-client/core": "^0.30.29",
     "@cubejs-client/react": "^0.30.40",
-    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^14.3.0",
     "antd": "^4.22.1",
